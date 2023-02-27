@@ -1,6 +1,6 @@
 ---
-title: "About"
+title: "Sobre mí"
 permalink: /about/
-date: 2019-02-15
+date: 2023-02-27
 ---
 
